@@ -952,19 +952,6 @@ footer {
     padding: 30px;
     margin-bottom: 106px;
   }
-/ Nested Styling
-.image-container {
-    width: 50vw;
-    height: 50vh;
-    position: relative;
-
-    .image {
-        width: 100%;
-        height: 100%;
-        position: relative !important;
-        object-fit: cover; // Optional
-    }
-}
 
 // Or Normal Styling
 .image-container {
