@@ -39,13 +39,13 @@ export default function Home() {
     <nav className="nav container">
       <a href="#" className="nav__logo">
         {" "}
-        Status Area{" "}
+        Spooky{" "}
       </a>
       <div className="nav__menu" id="nav-menu">
         <ul className="nav__list">
           <li className="nav__item">
-            <a href="https://www.statusarea.ml" className="nav__link active-link">
-              Blog
+            <a href="#home" className="nav__link active-link">
+              Graveyard
             </a>
           </li>
           <li className="nav__item">
@@ -71,7 +71,7 @@ export default function Home() {
           <i className="bx bx-x" />
         </div>
         <img
-          src=""
+          src="https://assets.codepen.io/7773162/nav-img.png"
           alt=""
           className="nav__img"
         />
@@ -88,7 +88,52 @@ export default function Home() {
         <div className="swiper-wapper">
         
           {/* HOME SLIDER 1 */}
-         {/* CATEGORY */}
+          <section className="swiper-slide">
+            <div className="home__content grid">
+              <div className="home__group">
+                <img
+                  src="https://i.ibb.co/hRK4wY5/xmas.png"
+                  alt="Be Happy 😃"
+                  className="home__img"
+                />
+                <div className="home__indicator" />
+                <div className="home__details-img">
+                  <h4 className="home__details-title">Captain Sem</h4>
+                  <span className="home__details-subtitle">
+                    Veteran Spooky Ghost
+                  </span>
+                </div>
+              </div>
+              <div className="home__data">
+                <h3 className="home__subtitle">#1 Top Scariest Ghost</h3>
+                <h1 className="home__title">
+                  RESPAWN <br /> THE SPOOKY <br /> SKULL{" "}
+                </h1>
+                <p className="home__description">
+                  In search for cute little puppy, Captain Sem has come back
+                  from his tragic death. With his hogwarts certified power he
+                  promise to be a hero for all of ghostkind.{" "}
+                </p>
+                <div className="home__buttons">
+                  <a href="#" className="book--now">
+                    <img
+                      src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+                      alt=""
+                    />
+                  </a>
+                  <a href="#" className="button--link button--flex">
+                    Track Record{" "}
+                    <i className="bx bx-right-arrow-alt button__icon" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+        <div className="swiper-pagination" />
+      </div>
+    </section>
+    {/* CATEGORY */}
     <section className="section category">
       <h2 className="section__title">
         Favorite Scare <br /> Category{" "}
@@ -424,15 +469,8 @@ export default function Home() {
           </a>
         </form>
       </div>
-</section>
-    </div>
-</div>
     </section>
-</>
   </main>
-</div>
-</div>
-</main>
   {/* SCROLL UP */}
   <a href="#" className="scrollup" id="scroll-up">
     <i className="bx bx-up-arrow-alt scrollup__icon" />
