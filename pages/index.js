@@ -114,7 +114,7 @@ export default function Home() {
                   from his tragic death. With his hogwarts certified power he
                   promise to be a hero for all of ghostkind.{" "}
                 </p>
-                <div className="home__buttons">
+                <div className="hme__buttons">
                   <a href="#" className="book--now">
                     <img
                       src=""
