@@ -98,9 +98,9 @@ export default function Home() {
                 />
                 <div className="home__indicator" />
                 <div className="home__details-img">
-                  <h4 className="home__details-title">Captain Sem</h4>
+                  <h4 className="home__details-title"></h4>
                   <span className="home__details-subtitle">
-                    Veteran Spooky Ghost
+                    
                   </span>
                 </div>
               </div>
@@ -117,7 +117,7 @@ export default function Home() {
                 <div className="home__buttons">
                   <a href="#" className="book--now">
                     <img
-                      src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+                      src=""
                       alt=""
                     />
                   </a>
