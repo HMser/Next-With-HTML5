@@ -428,7 +428,8 @@ export default function Home() {
     </div>
 </div>
     </section>
-  </div>
+  </main>
+</div>
 </div>
 </main>
   {/* SCROLL UP */}
