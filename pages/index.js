@@ -92,7 +92,7 @@ export default function Home() {
             <div className="home__content grid">
               <div className="home__group">
                 <img
-                  src="https://assets.codepen.io/7773162/home3-img.png"
+                  src="https://i.ibb.co/nCqXZy6/Pngtree-merry-christmas-happy-lettering-typography-5241546.png"
                   alt=""
                   className="home__img"
                 />
