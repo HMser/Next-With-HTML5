@@ -97,7 +97,7 @@ export default function Home() {
                   className="home__img"
                 />
                 <div className="home__indicator" />
-                <div className="home__details-img">
+                <div className="home__details-imag">
                   <h4 className="home__details-title"></h4>
                   <span className="home__details-subtitle">
                     
