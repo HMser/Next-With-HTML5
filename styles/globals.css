@@ -963,7 +963,7 @@ footer {
     width: 100%;
     height: 100%;
     position: relative !important;
-    object-fit: cover; // Optional
+    object-fit: cover;
 }
   .inside__footer {
     /*use flex-direction, because if you change it to Block it'll never allow Order to work*/
