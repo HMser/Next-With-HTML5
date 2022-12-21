@@ -425,7 +425,8 @@ export default function Home() {
         </form>
       </div>
     </section>
-  </main>
+  </div>
+</main>
   {/* SCROLL UP */}
   <a href="#" className="scrollup" id="scroll-up">
     <i className="bx bx-up-arrow-alt scrollup__icon" />
