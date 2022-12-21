@@ -39,7 +39,7 @@ export default function Home() {
     <nav className="nav container">
       <a href="#" className="nav__logo">
         {" "}
-        Spooky{" "}
+        Status Area{" "}
       </a>
       <div className="nav__menu" id="nav-menu">
         <ul className="nav__list">
