@@ -426,6 +426,7 @@ export default function Home() {
       </div>
     </section>
   </div>
+</div>
 </main>
   {/* SCROLL UP */}
   <a href="#" className="scrollup" id="scroll-up">
