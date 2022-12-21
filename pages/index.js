@@ -88,52 +88,7 @@ export default function Home() {
         <div className="swiper-wapper">
         
           {/* HOME SLIDER 1 */}
-          <section className="swiper-slide">
-            <div className="home__content grid">
-              <div className="home__group">
-                <img
-                  src="https://i.ibb.co/hRK4wY5/xmas.png"
-                  alt="Be Happy 😃"
-                  className="home__img"
-                />
-                <div className="home__indicator" />
-                <div className="home__details-img">
-                  <h4 className="home__details-title">Captain Sem</h4>
-                  <span className="home__details-subtitle">
-                    Veteran Spooky Ghost
-                  </span>
-                </div>
-              </div>
-              <div className="home__data">
-                <h3 className="home__subtitle">#1 Top Scariest Ghost</h3>
-                <h1 className="home__title">
-                  RESPAWN <br /> THE SPOOKY <br /> SKULL{" "}
-                </h1>
-                <p className="home__description">
-                  In search for cute little puppy, Captain Sem has come back
-                  from his tragic death. With his hogwarts certified power he
-                  promise to be a hero for all of ghostkind.{" "}
-                </p>
-                <div className="home__buttons">
-                  <a href="#" className="book--now">
-                    <img
-                      src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
-                      alt=""
-                    />
-                  </a>
-                  <a href="#" className="button--link button--flex">
-                    Track Record{" "}
-                    <i className="bx bx-right-arrow-alt button__icon" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-        </div>
-        <div className="swiper-pagination" />
-      </div>
-    </section>
-    {/* CATEGORY */}
+         {/* CATEGORY */}
     <section className="section category">
       <h2 className="section__title">
         Favorite Scare <br /> Category{" "}
