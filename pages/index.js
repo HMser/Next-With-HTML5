@@ -481,7 +481,7 @@ export default function Home() {
     <p className="copyright">
       Design By  <a href="https://www.hmser.ml/"> HM </a>
       <br />
-      © {`© ${new Date().getFullYear()}`} StatusArea, All Rights Reserved.
+       {`© ${new Date().getFullYear()}`} StatusArea, All Rights Reserved.
       <br /> </p>
   </div>
 </footer>
