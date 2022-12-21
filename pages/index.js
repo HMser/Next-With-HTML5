@@ -96,7 +96,7 @@ export default function Home() {
                   alt="Be Happy 😃"
                   className="home__img"
                 />
-             {/*   <div className="home__indicator" />
+                <div className="home__indicator" />
                 <div className="home__details-img">
                   <h4 className="home__details-title">Captain Sem</h4>
                   <span className="home__details-subtitle">
@@ -104,7 +104,7 @@ export default function Home() {
                   </span>
                 </div>
               </div>
-          */}    <div className="home__data">
+              <div className="home__data">
                 <h3 className="home__subtitle">#1 Top Scariest Ghost</h3>
                 <h1 className="home__title">
                   RESPAWN <br /> THE SPOOKY <br /> SKULL{" "}
