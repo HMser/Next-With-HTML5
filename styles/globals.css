@@ -967,7 +967,8 @@ footer {
 }
   .inside__footer {
     /*use flex-direction, because if you change it to Block it'll never allow Order to work*/
-    flex-direction: column;
+     padding-bottom: 25px;    
+     flex-direction: column;
   }
   .copyright {
     font-size: 14px;
