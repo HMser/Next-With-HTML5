@@ -92,7 +92,7 @@ export default function Home() {
             <div className="home__content grid">
               <div className="home__group">
                 <img
-                  src="https://i.ibb.co/hcGhsDC/xmas.png"
+                  src="https://i.ibb.co/hRK4wY5/xmas.png"
                   alt="Be Happy 😃"
                   className="home__img"
                 />
