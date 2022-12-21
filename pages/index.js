@@ -88,7 +88,7 @@ export default function Home() {
         <div className="swiper-wapper">
         
           {/* HOME SLIDER 1 */}
-          <section className="swiper-slide">
+          <section className="swipr-slide">
             <div className="home__content grid">
               <div className="home__group">
                 <img
