@@ -1,4 +1,4 @@
-React, { useEffect, useRef } from "react";;
+React, { useEffect, useRef } from 'react';
 import { Video, CloudinaryContext } from "cloudinary-react";
 import { useInView } from "react-intersection-observer";
 
