@@ -83,7 +83,7 @@ export default function Home() {
   </header>
   <main className="main">
     {/* HOME */}
-    <section className="home container" id="home">
+  {/*  <section className="home container" id="home">
      <div className="swiper home-siper">
         <div className="swiper-wapper">
         
@@ -133,6 +133,7 @@ export default function Home() {
         <div className="swiper-pagination" />
       </div>
     </section>
+*/}
     {/* CATEGORY */}
     <section className="section category">
       <h2 className="section__title">
