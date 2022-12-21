@@ -425,6 +425,7 @@ export default function Home() {
         </form>
       </div>
 </section>
+    </div>
 </div>
     </section>
   </div>
