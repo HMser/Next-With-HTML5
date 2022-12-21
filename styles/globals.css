@@ -87,6 +87,7 @@ ul {
   list-style: none;
 }
 a {
+  color:#FF5B7A;
   text-decoration: none;
 }
 img {
@@ -902,3 +903,121 @@ button {
   );
   filter: blur(157.708px);
 }
+footer {
+  /*Remove "fixed, left, and bottom" if you want it to scroll naturally to the bottom*/
+  position: bottom;
+  left: 0;
+  bottom: 0;
+  /*-------*/
+  color: var(--title-color);
+  width: 100%;
+  cursor: default;
+}
+.copyright {
+  text-align: left;
+  color: var(--title-color);
+  font-size: 16px;
+  order: 1;
+  margin-bottom: 0;
+}
+.social {
+  order: 2;
+  margin-bottom: 0;
+}
+.icon {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  margin-left: 20px;
+  fill: darkgray;
+  transition: fill 0.15s, filter 0.15s;
+}
+.icon:first-child {
+  margin-right: 0;
+}
+.facebook:hover {
+  fill: #3b5998;
+}
+.instagram:hover {
+  fill: #dd2a7b;
+}
+.twitter:hover {
+  fill: #1da1f2;
+}
+.icon:active {
+  filter: brightness(70%);
+}
+@media only screen and (max-width: 600px) {
+  .card {
+    padding: 30px;
+    margin-bottom: 106px;
+  }
+  .inside__footer {
+    /*use flex-direction, because if you change it to Block it'll never allow Order to work*/
+    flex-direction: column;
+  }
+  .copyright {
+    font-size: 14px;
+    text-align: center;
+    order: 2;
+    margin-bottom: 4px;
+  }
+  .social {
+    order: 1;
+    margin-bottom: 4px;
+  }
+  .icon {
+    width: 24px;
+    height: 24px;
+    transition: fill 0s, filter 0s;
+  }
+}
+.spinner-wrapper{
+    width: 100%;
+    height: 100%;
+    background-color: #f8f6f6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .spinner {
+    position: relative;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+  }
+  
+  .spinner::before,
+  .spinner:after{
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+  }
+  
+  .spinner:before {
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(90deg, #c59d5f 0%,#515151 100% );
+    animation: spin .5s infinite linear;
+  }
+  
+  .spinner:after {
+    width: 90%;
+    height: 90%;
+    background-color: #f3f0f0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
