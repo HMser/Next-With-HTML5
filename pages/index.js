@@ -39,13 +39,13 @@ export default function Home() {
     <nav className="nav container">
       <a href="#" className="nav__logo">
         {" "}
-        Spooky{" "}
+        Status Area{" "}
       </a>
       <div className="nav__menu" id="nav-menu">
         <ul className="nav__list">
           <li className="nav__item">
-            <a href="#home" className="nav__link active-link">
-              Graveyard
+            <a href="https://www.statusarea.ml" className="nav__link active-link">
+              Blog
             </a>
           </li>
           <li className="nav__item">
@@ -71,7 +71,7 @@ export default function Home() {
           <i className="bx bx-x" />
         </div>
         <img
-          src="https://assets.codepen.io/7773162/nav-img.png"
+          src=""
           alt=""
           className="nav__img"
         />
