@@ -92,8 +92,8 @@ export default function Home() {
             <div className="home__content grid">
               <div className="home__group">
                 <img
-                  src="https://i.ibb.co/nCqXZy6/Pngtree-merry-christmas-happy-lettering-typography-5241546.png"
-                  alt=""
+                  src="images/events/xmas.png"
+                  alt="Be Happy 😃"
                   className="home__img"
                 />
                 <div className="home__indicator" />
