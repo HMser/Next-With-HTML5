@@ -93,10 +93,8 @@ export default function Home() {
               <div className="home__group">
                 <img
                   src="images/events/xmas.png"
-                  fill
-      sizes="(max-width: 768px) 100vw,
-              (max-width: 1200px) 50vw,
-              33vw"
+                  width="100%"
+                  height="100%"
                   alt="Be Happy 😃"
                   className="home__img"
                 />
