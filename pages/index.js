@@ -206,20 +206,20 @@ export default function Home() {
       <div className="trick__container container grid">
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat1-img.png"
+            src="images/logo/s.png"
             alt=""
             className="trick__img"
           />
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">Main Group</span>
           <span className="trick__price"></span>
-          <button color="#25d366" className="button trick__button">
+          <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat2-img.png"
+            src="images/logo/s2.png"
             alt=""
             className="trick__img"
           />
@@ -232,7 +232,7 @@ export default function Home() {
         </div>
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat3-img.png"
+            src="images/logo/s3.png"
             alt=""
             className="trick__img"
           />
@@ -245,7 +245,7 @@ export default function Home() {
         </div>
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat4-img.png"
+            src="images/logo/s4.png"
             alt=""
             className="trick__img"
           />
@@ -258,7 +258,7 @@ export default function Home() {
         </div>
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat5-img.png"
+            src="images/logo/ak.png"
             alt=""
             className="trick__img"
           />
@@ -271,7 +271,7 @@ export default function Home() {
         </div>
         <div className="trick__content">
           <Image
-            src="https://assets.codepen.io/7773162/trick-treat6-img.png"
+            src="images/logo/ak.png"
             alt=""
             className="trick__img"
           />
