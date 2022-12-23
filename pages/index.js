@@ -117,7 +117,7 @@ export default function Home() {
                 <div className="home__buttons">
                   <a href="#" className="book--now">
                     <Image
-                      src="images/svg/booking.svg"
+                      src="images/logo/new.png"
                       alt=""
                     />
                   </a>
