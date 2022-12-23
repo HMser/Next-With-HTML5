@@ -213,7 +213,7 @@ export default function Home() {
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">Main Group</span>
           <span className="trick__price"></span>
-          <button className="button trick__button">
+          <button color="#25d366" className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
