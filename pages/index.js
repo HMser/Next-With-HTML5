@@ -117,7 +117,7 @@ export default function Home() {
                 <div className="home__buttons">
                   <a href="#" className="book--now">
                     <Image
-                      src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+                      src="images/svg/booking.svg"
                       alt=""
                     />
                   </a>
@@ -188,7 +188,7 @@ export default function Home() {
           </p>
           <a href="#" className="book--now">
             <Image
-              src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+              src="images/svg/booking.svg"
               alt=""
             />
           </a>
@@ -293,7 +293,7 @@ export default function Home() {
           </h2>
           <a href="#" className="book--now">
             <Image
-              src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+              src="images/svg/booking.svg"
               alt=""
             />
           </a>
@@ -463,7 +463,7 @@ export default function Home() {
           />
           <a href="#" className="book--now">
             <Image
-              src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
+              src="images/svg/booking.svg"
               alt=""
             />
           </a>
