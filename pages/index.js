@@ -210,9 +210,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Toffee</h3>
-          <span className="trick__subtitle">Candy</span>
-          <span className="trick__price">$11.99</span>
+          <h3 className="trick__title">Status Area</h3>
+          <span className="trick__subtitle">Main Group</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
@@ -223,9 +223,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Bone</h3>
-          <span className="trick__subtitle">Accessory</span>
-          <span className="trick__price">$8.99</span>
+          <h3 className="trick__title">Status Area</h3>
+          <span className="trick__subtitle">2nd Group</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
@@ -236,9 +236,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Scarecrow</h3>
-          <span className="trick__subtitle">Accessory</span>
-          <span className="trick__price">$15.99</span>
+          <h3 className="trick__title">Status Area</h3>
+          <span className="trick__subtitle">3rd Group</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
@@ -249,9 +249,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Candy Cane</h3>
-          <span className="trick__subtitle">Candy</span>
-          <span className="trick__price">$7.99</span>
+          <h3 className="trick__title">Status Area</h3>
+          <span className="trick__subtitle">4rth Group</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
@@ -262,9 +262,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Pumpkin</h3>
-          <span className="trick__subtitle">Candy</span>
-          <span className="trick__price">$19.99</span>
+          <h3 className="trick__title">Audio Group</h3>
+          <span className="trick__subtitle">Audio Caption Kingdom</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
@@ -275,9 +275,9 @@ export default function Home() {
             alt=""
             className="trick__img"
           />
-          <h3 className="trick__title">Ghost</h3>
-          <span className="trick__subtitle">Accessory</span>
-          <span className="trick__price">$17.99</span>
+          <h3 className="trick__title">Audio Group 2</h3>
+          <span className="trick__subtitle">Audio Caption Kingdom</span>
+          <span className="trick__price"></span>
           <button className="button trick__button">
             <i className="bx bx-cart-alt trick__icon" />
           </button>
