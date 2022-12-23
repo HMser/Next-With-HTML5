@@ -517,6 +517,7 @@ button {
 }
 .new__content:hover .new__button {
   right: 0;
+  background-color: #0088CC;
 }
 /* NEWSLETTER */
 .newsletter__description {
