@@ -70,7 +70,7 @@ export default function Home() {
         <div className="nav__close" id="nav-close">
           <i className="bx bx-x" />
         </div>
-        <img
+        <Image
           src="https://assets.codepen.io/7773162/nav-img.png"
           alt=""
           className="nav__img"
@@ -91,7 +91,7 @@ export default function Home() {
           <section className="swiper-slide">
             <div className="home__content grid">
               <div className="home__group">
-                <img
+                <Image
                   src="https://i.ibb.co/hRK4wY5/xmas.png"
                   alt="Be Happy 😃"
                   className="home__img"
@@ -116,7 +116,7 @@ export default function Home() {
                 </p>
                 <div className="home__buttons">
                   <a href="#" className="book--now">
-                    <img
+                    <Image
                       src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
                       alt=""
                     />
@@ -140,7 +140,7 @@ export default function Home() {
       </h2>
       <div className="category__container container grid">
         <div className="category__data">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/category1-img.png"
             alt=""
             className="category__img"
@@ -151,7 +151,7 @@ export default function Home() {
           </p>
         </div>
         <div className="category__data">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/category2-img.png"
             alt=""
             className="category__img"
@@ -162,7 +162,7 @@ export default function Home() {
           </p>
         </div>
         <div className="category__data">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/category3-img.png"
             alt=""
             className="category__img"
@@ -187,13 +187,13 @@ export default function Home() {
             comes from ancient origins, and is already celebrated by everyone.{" "}
           </p>
           <a href="#" className="book--now">
-            <img
+            <Image
               src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
               alt=""
             />
           </a>
         </div>
-        <img
+        <Image
           src="https://assets.codepen.io/7773162/about-img.png"
           alt=""
           className="about__img"
@@ -205,7 +205,7 @@ export default function Home() {
       <h2 className="section__title">Trick Or Treat</h2>
       <div className="trick__container container grid">
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat1-img.png"
             alt=""
             className="trick__img"
@@ -218,7 +218,7 @@ export default function Home() {
           </button>
         </div>
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat2-img.png"
             alt=""
             className="trick__img"
@@ -231,7 +231,7 @@ export default function Home() {
           </button>
         </div>
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat3-img.png"
             alt=""
             className="trick__img"
@@ -244,7 +244,7 @@ export default function Home() {
           </button>
         </div>
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat4-img.png"
             alt=""
             className="trick__img"
@@ -257,7 +257,7 @@ export default function Home() {
           </button>
         </div>
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat5-img.png"
             alt=""
             className="trick__img"
@@ -270,7 +270,7 @@ export default function Home() {
           </button>
         </div>
         <div className="trick__content">
-          <img
+          <Image
             src="https://assets.codepen.io/7773162/trick-treat6-img.png"
             alt=""
             className="trick__img"
@@ -292,13 +292,13 @@ export default function Home() {
             50% Discount <br /> On New Products{" "}
           </h2>
           <a href="#" className="book--now">
-            <img
+            <Image
               src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
               alt=""
             />
           </a>
         </div>
-        <img
+        <Image
           src="https://assets.codepen.io/7773162/discount-img.png"
           alt=""
           className="discount__img"
@@ -313,12 +313,12 @@ export default function Home() {
           <div className="swiper-wrapper">
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new1-img.png"
                 alt=""
                 className="new__img"
@@ -335,12 +335,12 @@ export default function Home() {
             </div>
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new2-img.png"
                 alt=""
                 className="new__img"
@@ -357,12 +357,12 @@ export default function Home() {
             </div>
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new3-img.png"
                 alt=""
                 className="new__img"
@@ -379,12 +379,12 @@ export default function Home() {
             </div>
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new4-img.png"
                 alt=""
                 className="new__img"
@@ -401,12 +401,12 @@ export default function Home() {
             </div>
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new5-img.png"
                 alt=""
                 className="new__img"
@@ -423,12 +423,12 @@ export default function Home() {
             </div>
             <div className="new__content swiper-slide">
               <div className="new__tag">
-                <img
+                <Image
                   src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
                   alt=""
                 />
               </div>
-              <img
+              <Image
                 src="https://assets.codepen.io/7773162/new6-img.png"
                 alt=""
                 className="new__img"
@@ -462,7 +462,7 @@ export default function Home() {
             className="newsletter__input"
           />
           <a href="#" className="book--now">
-            <img
+            <Image
               src="https://assets.codepen.io/7773162/svgviewer-output+%281%29_3.svg"
               alt=""
             />
