@@ -70,7 +70,7 @@ export default function About() {
         <div className="nav__close" id="nav-close">
           <i className="bx bx-x" />
         </div>
-        <img
+        <Image
           src="https://assets.codepen.io/7773162/nav-img.png"
           alt=""
           className="nav__img"
