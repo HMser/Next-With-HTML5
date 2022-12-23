@@ -47,6 +47,7 @@
   --z-tooltip: 10;
   --z-fixed: 100;
 }
+@supports (font: -apple-system-body) and (-webkit-appearance: none) { img[loading="lazy"] { clip-path: inset(0.6px) } }
 /* Responsive typography */
 @media screen and (min-width: 992px) {
   :root {
