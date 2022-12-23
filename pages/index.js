@@ -214,7 +214,7 @@ export default function Home() {
           <span className="trick__subtitle">Main Group</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
@@ -227,7 +227,7 @@ export default function Home() {
           <span className="trick__subtitle">2nd Group</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
@@ -240,7 +240,7 @@ export default function Home() {
           <span className="trick__subtitle">3rd Group</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
@@ -253,7 +253,7 @@ export default function Home() {
           <span className="trick__subtitle">4rth Group</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
@@ -266,7 +266,7 @@ export default function Home() {
           <span className="trick__subtitle">Audio Caption Kingdom</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
         <div className="trick__content">
@@ -279,7 +279,7 @@ export default function Home() {
           <span className="trick__subtitle">Audio Caption Kingdom</span>
           <span className="trick__price"></span>
           <button className="button trick__button">
-            <i className="bx bx-cart-alt trick__icon" />
+            <i className="bx bxl-whatsapp trick__icon" />
           </button>
         </div>
       </div>
