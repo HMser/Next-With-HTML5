@@ -213,7 +213,7 @@ export default function Home() {
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">Main Group</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/F5zf3ZFSMUUFY328aQxd7W"          
+<a href="https://chat.whatsapp.com/F5zf3ZFSMUUFY328aQxd7W">          
 <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
@@ -228,7 +228,7 @@ export default function Home() {
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">2nd Group</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/BfhHq6o0muHJcaqkrv7iq9"
+<a href="https://chat.whatsapp.com/BfhHq6o0muHJcaqkrv7iq9">
           <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
 </a>
@@ -243,7 +243,7 @@ export default function Home() {
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">3rd Group</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/L3V5N4GWZhKIj6eWr5Wpfj"          
+<a href="https://chat.whatsapp.com/L3V5N4GWZhKIj6eWr5Wpfj">          
 <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
@@ -258,7 +258,8 @@ export default function Home() {
           <h3 className="trick__title">Status Area</h3>
           <span className="trick__subtitle">4rth Group</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/Fz037hIYReICQP4XK40kmX"          <button className="button trick__button">
+<a href="https://chat.whatsapp.com/Fz037hIYReICQP4XK40kmX">
+          <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
 </a>
@@ -272,7 +273,7 @@ export default function Home() {
           <h3 className="trick__title">Audio Group</h3>
           <span className="trick__subtitle">Audio Caption Kingdom</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/C20IH5Vk4lhJelpBvq1UB4"
+<a href="https://chat.whatsapp.com/C20IH5Vk4lhJelpBvq1UB4">
           <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
@@ -287,7 +288,7 @@ export default function Home() {
           <h3 className="trick__title">Audio Group 2</h3>
           <span className="trick__subtitle">Audio Caption Kingdom</span>
           <span className="trick__price"></span>
-<a href="https://chat.whatsapp.com/E5bbof857iUIrdSPJIqEWK"
+<a href="https://chat.whatsapp.com/E5bbof857iUIrdSPJIqEWK">
           <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
           </button>
