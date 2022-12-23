@@ -231,8 +231,8 @@ export default function Home() {
 <a href="https://chat.whatsapp.com/BfhHq6o0muHJcaqkrv7iq9">
           <button className="button trick__button">
             <i className="bx bxl-whatsapp trick__icon" />
-</a>
           </button>
+</a>
         </div>
         <div className="trick__content">
           <Image
