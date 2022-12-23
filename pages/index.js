@@ -71,6 +71,7 @@ export default function Home() {
           <i className="bx bx-x" />
         </div>
         <Image
+          loader={myLoader}
           src="https://assets.codepen.io/7773162/nav-img.png"
           alt=""
           className="nav__img"
