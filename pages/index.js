@@ -330,7 +330,7 @@ export default function Home() {
                 <span className="new__discount">$29.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
             <div className="new__content swiper-slide">
@@ -352,7 +352,7 @@ export default function Home() {
                 <span className="new__discount">$21.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
             <div className="new__content swiper-slide">
@@ -374,7 +374,7 @@ export default function Home() {
                 <span className="new__discount">$9.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
             <div className="new__content swiper-slide">
@@ -396,7 +396,7 @@ export default function Home() {
                 <span className="new__discount">$44.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
             <div className="new__content swiper-slide">
@@ -418,7 +418,7 @@ export default function Home() {
                 <span className="new__discount">$12.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
             <div className="new__content swiper-slide">
@@ -440,7 +440,7 @@ export default function Home() {
                 <span className="new__discount">$14.99</span>
               </div>
               <button className="button new__button">
-                <i className="bx bx-cart-alt new__icon" />
+                <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
           </div>
