@@ -424,6 +424,8 @@ button {
   position: absolute;
   right: -3rem;
   bottom: 0;
+  color: #25D366;
+  background-color: #fff;
 }
 .trick__icon {
   font-size: 1.25rem;
@@ -434,6 +436,8 @@ button {
 }
 .trick__content:hover .trick__button {
   right: 0;
+  color: #fff;
+  background-color: #25D366;
 }
 /* DISCOUNT */
 .discount__container {
@@ -506,7 +510,7 @@ button {
   border-radius: 0.25rem 0.25rem 0.75rem 0.25rem;
   position: absolute;
   bottom: 0;
-  color: #fff;
+  color: #0088CC;
   background-color: #fff;
   right: -3rem;
 }
@@ -518,6 +522,7 @@ button {
 }
 .new__content:hover .new__button {
   right: 0;
+  color: #fff;
   background-color: #0088CC;
 }
 /* NEWSLETTER */
