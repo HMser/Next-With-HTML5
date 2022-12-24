@@ -50,17 +50,17 @@ export default function Home() {
           </li>
           <li className="nav__item">
             <a href="#about" className="nav__link">
-              Track Record
+              About
             </a>
           </li>
           <li className="nav__item">
             <a href="#trick" className="nav__link">
-              Services
+              Latest Status
             </a>
           </li>
           <li className="nav__item">
             <a href="#new" className="nav__link">
-              Know More
+              New Movies
             </a>
           </li>
           <a href="#" className="button button--ghost">
@@ -202,7 +202,7 @@ export default function Home() {
     </section>
     {/* TRICK OR TREAT */}
     <section className="section trick" id="trick">
-      <h2 className="section__title">Trick Or Treat</h2>
+      <h2 className="section__title">Whatsapp Groups</h2>
       <div className="trick__container container grid">
         <div className="trick__content">
           <Image
@@ -319,7 +319,7 @@ export default function Home() {
     </section>
     {/* NEW ARRIVALS */}
     <section className="section new" id="new">
-      <h2 className="section__title">New Arrivals</h2>
+      <h2 className="section__title">New Movies</h2>
       <div className="new__container container">
         <div className="swiper new-swiper">
           <div className="swiper-wrapper">
