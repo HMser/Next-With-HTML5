@@ -63,8 +63,8 @@ export default function Home() {
               New Movies
             </a>
           </li>
-          <a href="#" className="button button--ghost">
-            Support
+          <a href="about" className="button button--ghost">
+            Blog
           </a>
         </ul>
         <div className="nav__close" id="nav-close">
