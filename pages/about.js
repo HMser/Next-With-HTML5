@@ -40,7 +40,7 @@ export default function About() {
       <Link href="/" className="nav__logo">
         {" "}
         Status Area{" "}
-      />
+      </Link>
       <div className="nav__menu" id="nav-menu">
         <ul className="nav__list">
           <li className="nav__item">
