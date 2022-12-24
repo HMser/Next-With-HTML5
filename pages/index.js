@@ -100,7 +100,7 @@ export default function Home() {
                 <div className="home__details-img">
                   <h4 className="home__details-title">Captain Sem</h4>
                   <span className="home__details-subtitle">
-                    Have a test good {currentDayName()}!
+                    
                   </span>
                 </div>
               </div>
