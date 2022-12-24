@@ -345,6 +345,115 @@ export default function Home() {
                 <i className="bx bxl-telegram new__icon" />
               </button>
             </div>
+            <div className="new__content swiper-slide">
+              <div className="new__tag">
+                <Image
+                  src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
+                  alt=""
+                />
+              </div>
+              <Image
+                src="https://assets.codepen.io/7773162/new2-img.png"
+                alt=""
+                className="new__img"
+              />
+              <h3 className="new__title">Halloween Candle</h3>
+              <span className="new__subtitle">Accessory</span>
+              <div className="new__prices">
+                <span className="new__price">$11.99</span>
+                <span className="new__discount">$21.99</span>
+              </div>
+              <button className="button new__button">
+                <i className="bx bxl-telegram new__icon" />
+              </button>
+            </div>
+            <div className="new__content swiper-slide">
+              <div className="new__tag">
+                <Image
+                  src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
+                  alt=""
+                />
+              </div>
+              <Image
+                src="https://assets.codepen.io/7773162/new3-img.png"
+                alt=""
+                className="new__img"
+              />
+              <h3 className="new__title">Witch Hat</h3>
+              <span className="new__subtitle">Accessory</span>
+              <div className="new__prices">
+                <span className="new__price">$4.99</span>
+                <span className="new__discount">$9.99</span>
+              </div>
+              <button className="button new__button">
+                <i className="bx bxl-telegram new__icon" />
+              </button>
+            </div>
+            <div className="new__content swiper-slide">
+              <div className="new__tag">
+                <Image
+                  src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
+                  alt=""
+                />
+              </div>
+              <Image
+                src="https://assets.codepen.io/7773162/new4-img.png"
+                alt=""
+                className="new__img"
+              />
+              <h3 className="new__title">Rip</h3>
+              <span className="new__subtitle">Accessory</span>
+              <div className="new__prices">
+                <span className="new__price">$24.99</span>
+                <span className="new__discount">$44.99</span>
+              </div>
+              <button className="button new__button">
+                <i className="bx bxl-telegram new__icon" />
+              </button>
+            </div>
+            <div className="new__content swiper-slide">
+              <div className="new__tag">
+                <Image
+                  src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
+                  alt=""
+                />
+              </div>
+              <Image
+                src="https://assets.codepen.io/7773162/new5-img.png"
+                alt=""
+                className="new__img"
+              />
+              <h3 className="new__title">Terrifying Crystal Ball</h3>
+              <span className="new__subtitle">Accessory</span>
+              <div className="new__prices">
+                <span className="new__price">$5.99</span>
+                <span className="new__discount">$12.99</span>
+              </div>
+              <button className="button new__button">
+                <i className="bx bxl-telegram new__icon" />
+              </button>
+            </div>
+            <div className="new__content swiper-slide">
+              <div className="new__tag">
+                <Image
+                  src="https://assets.codepen.io/7773162/svgviewer-output+%286%29_1.svg"
+                  alt=""
+                />
+              </div>
+              <Image
+                src="https://assets.codepen.io/7773162/new6-img.png"
+                alt=""
+                className="new__img"
+              />
+              <h3 className="new__title">Witch Broom</h3>
+              <span className="new__subtitle">Accessory</span>
+              <div className="new__prices">
+                <span className="new__price">$7.99</span>
+                <span className="new__discount">$14.99</span>
+              </div>
+              <button className="button new__button">
+                <i className="bx bxl-telegram new__icon" />
+              </button>
             </div>
           </div>
         </div>
