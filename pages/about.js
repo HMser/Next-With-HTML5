@@ -37,10 +37,10 @@ export default function About() {
   {/* HEADER */}
   <header className="header" id="header">
     <nav className="nav container">
-      <a href="/" className="nav__logo">
+      <Link href="/" className="nav__logo">
         {" "}
         Status Area{" "}
-      </a>
+      />
       <div className="nav__menu" id="nav-menu">
         <ul className="nav__list">
           <li className="nav__item">
