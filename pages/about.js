@@ -84,6 +84,44 @@ export default function About() {
 
 
 
+<h1 style="color: green;"> 
+
+    GeeksforGeeks 
+
+</h1> 
+
+<p> 
+
+    For displaying the alert message, double 
+
+    click the "Show Alert Message" button: 
+
+</p> 
+
+  
+
+<button ondblclick="myalert()"> 
+
+    Show Alert Message 
+
+</button> 
+
+  
+
+<Script 
+
+    function myalert() { 
+
+        alert("Welcome to GeeksforGeeks.\n " + 
+
+            "It is the best portal for computer" + 
+
+                    "science enthusiasts!"); 
+
+    } >
+
+</Script>
+
 <footer>
   <div className="inside__footer">
     <p className="copyright">
