@@ -408,20 +408,7 @@ export default function Home() {
             placeholder="Enter your email"
             className="newsletter__input"
           />
-<form action="https://formspree.io/f/xeqwjnqp" method="post">
-  <label for="first">First name:</label>
-  <input type="text" id="first" name="first" />
-  <label for="last">Last name:</label>
-  <input type="text" id="last" name="last" />
-  <button type="submit">Submit</button>
-</form>
-          <a href="#" className="book--now">
-            <Image
-              src="images/svg/booking.svg"
-              alt=""
-            />
-          </a>
-        </form>
+<ContactForm />
       </div>
     </section>
   </main>
