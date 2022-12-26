@@ -1,4 +1,4 @@
-import HeaderComponent from "../components/header";
+import HeaderComponent from "../components/navbar";
 import FooterComponent from "../components/footer";
 
 function HelloPage(){    
