@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Script from 'next/script'
 import Link from 'next/link'
 import ContactForm from "../components/contactForm";
+import NowPlay from "../components/SpotifyFooter";
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 
@@ -489,7 +490,7 @@ export default function Home() {
   <a href="#" className="scrollup" id="scroll-up">
     <i className="bx bx-up-arrow-alt scrollup__icon" />
   </a>
-
+<NowPlay />
 <footer>
   <div className="inside__footer">
     <p className="copyright">
