@@ -1,5 +1,5 @@
-import HeaderComponent from "../components/common/Header/header";
-import FooterComponent from "../components/common/Footer/footer";
+import HeaderComponent from "../components/header";
+import FooterComponent from "../components/footer";
 
 function HelloPage(){    
     return(        
