@@ -17,6 +17,9 @@
     "cloudinary-react": "^1.7.0",
     "react-intersection-observer": "^8.31.0",
     "react-dom": "18.2.0",
-    "@formspree/react":"2.4.1"
+    "@formspree/react":"2.4.1",
+    "swr": "^1.0.0",
+    "swr-old": "npm:swr@^1.0.0",
+    "motion": "^10.4.0"
   }
 }
