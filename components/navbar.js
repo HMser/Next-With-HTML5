@@ -77,7 +77,6 @@ function HeaderComponent() {
       </div>
     </nav>
   </header>
-</>
     )
 }
 export default HeaderComponent
