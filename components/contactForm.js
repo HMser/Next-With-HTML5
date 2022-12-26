@@ -22,6 +22,7 @@ function ContactForm() {
         field="email"
         errors={state.errors}
       />
+<br />
       <textarea
         id="message"
         name="message"
@@ -31,6 +32,7 @@ function ContactForm() {
         field="message"
         errors={state.errors}
       />
+<br />
       <button type="submit" disabled={state.submitting}>
         Submit
       </button>
