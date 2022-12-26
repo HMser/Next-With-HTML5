@@ -402,13 +402,7 @@ export default function Home() {
           {" "}
           Promotion new products and sales. Directly to your inbox{" "}
         </p>
-        <form action="" className="newsletter__form">
-          <input
-            type="text"
-            placeholder="Enter your email"
-            className="newsletter__input"
-          />
-<ContactForm />
+        <ContactForm />
       </div>
     </section>
   </main>
