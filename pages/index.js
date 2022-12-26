@@ -249,6 +249,9 @@ export default function Home() {
       </div>
     </section>
     {/* NEW ARRIVALS */}
+<Script strategy="lazyOnload" src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.2/swiper-bundle.min.js'></Script>
+<Script strategy="lazyOnload" src='https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.min.js'></Script>
+<Script strategy="lazyOnload" src="./script.js"></Script>
     <section className="section new" id="new">
       <h2 className="section__title">New Movies</h2>
       <div className="new__container container">
