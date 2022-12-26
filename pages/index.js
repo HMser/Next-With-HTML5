@@ -408,8 +408,7 @@ export default function Home() {
             placeholder="Enter your email"
             className="newsletter__input"
           />
-<ContactForm />
-<form action="/send-data-here" method="post">
+<form action="https://formspree.io/f/xeqwjnqp" method="post">
   <label for="first">First name:</label>
   <input type="text" id="first" name="first" />
   <label for="last">Last name:</label>
