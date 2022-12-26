@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Script from 'next/script'
 import Link from 'next/link'
+import ContactForm from "../components/contactForm";
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 
@@ -473,6 +474,7 @@ export default function Home() {
             placeholder="Enter your email"
             className="newsletter__input"
           />
+<ContactForm />
           <a href="#" className="book--now">
             <Image
               src="images/svg/booking.svg"
