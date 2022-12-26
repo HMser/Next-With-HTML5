@@ -15,7 +15,6 @@ function ContactForm() {
   <button type="submit">Submit</button>
 </form>
 </>
-  );
 }
 function App() {
   return (
