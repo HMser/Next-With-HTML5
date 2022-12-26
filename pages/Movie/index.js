@@ -1,5 +1,5 @@
-import HeaderComponent from "../components/navbar";
-import FooterComponent from "../components/footer";
+import HeaderComponent from "../../components/navbar";
+import FooterComponent from "../../components/footer";
 
 function MoviePage(){    
     return(        
