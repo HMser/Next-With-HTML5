@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Script from 'next/script'
 import Link from 'next/link'
-
+import { motion } from 'motion'
     {siteBlogs.map((post) => (
      <Link key={post.id} href={`/blogs/${post.slug}`}>
         <a>
