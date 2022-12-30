@@ -397,10 +397,12 @@ export default function Home() {
     {/* OUR NEWSLETTER */}
     <section className="section newsletter">
       <div className="newsletter__container container">
-        <h2 className="section__title">Our Newsletter</h2>
+        <h2 className="section__title">Looking for creators 🤩</h2>
         <p className="newsletter__description">
           {" "}
-          Promotion new products and sales. Directly to your inbox{" "}
+          In honor of our team's 2nd anniversary, the team is inviting more creators to work with us.
+
+Those interested contact us{" "}
         </p>
         <ContactForm />
       </div>
