@@ -400,7 +400,7 @@ export default function Home() {
         <h2 className="section__title">Looking for creators 🤩</h2>
         <p className="newsletter__description">
           {" "}
-          In honor of our team's 2nd anniversary, the team is inviting more creators to work with us.
+          In honor of our teamu&#39;s 2nd anniversary, the team is inviting more creators to work with us.
 
 Those interested contact us{" "}
         </p>
