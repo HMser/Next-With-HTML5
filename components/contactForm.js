@@ -25,8 +25,10 @@ function ContactForm() {
 <br />
       <textarea
         id="message"
+        type="message"
         name="message"
       />
+<br />
       <ValidationError 
         prefix="Message" 
         field="message"
