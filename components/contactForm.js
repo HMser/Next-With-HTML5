@@ -23,6 +23,9 @@ function ContactForm() {
         errors={state.errors}
       />
 <br />
+      <label htmlFor="message">
+        your message
+      </label>
       <textarea
         id="message"
         type="message"
