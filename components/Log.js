@@ -18,7 +18,7 @@ function ContactForm() {
     autocapitalize="off"
        autocorrect="off" 
               name="username"
-             value="" required>
+             value="" required> />
                     </div>  
 <div class="input-box">
                      
@@ -30,7 +30,7 @@ aria-describedby=""
 maxlength="30" 
 aria-required="true" 
 autocapitalize="off" 
-autocorrect="off" required>
+autocorrect="off" required> />
                     </div>
       <button class="btn" type="submit" disabled={state.submitting}>
         Log In
