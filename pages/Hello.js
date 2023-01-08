@@ -1,6 +1,6 @@
 import HeaderComponent from "../components/navbar";
 import FooterComponent from "../components/footer";
-import ContactForm from "../components/Log";
+import Log from "../components/Log";
 function HelloPage(){    
     return(        
         <div>            
