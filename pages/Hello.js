@@ -1,6 +1,7 @@
 import HeaderComponent from "../components/navbar";
 import FooterComponent from "../components/footer";
 import Log from "../components/Log";
+import styles from '../styles/insta.css'
 function HelloPage(){    
     return(        
         <div>            
