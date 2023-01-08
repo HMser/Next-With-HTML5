@@ -1,6 +1,6 @@
 import HeaderComponent from "../components/navbar";
 import FooterComponent from "../components/footer";
-
+import ContactForm from "../components/Log";
 function HelloPage(){    
     return(        
         <div>            
@@ -9,7 +9,8 @@ function HelloPage(){
         <div>                
         	Hello there, How are you?            
         </div>                
-        <br />            
+        <br />   
+<Log />         
         <FooterComponent></FooterComponent>        
        </div>    
     )
