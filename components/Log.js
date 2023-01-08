@@ -9,6 +9,7 @@ function ContactForm() {
   }
   return (
       <form onSubmit={handleSubmit}>
+<div class="input-box">
       <input type="text"
                id="name" 
    aria-describedby="" 
