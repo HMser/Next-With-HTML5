@@ -34,9 +34,10 @@ export default function Home() {
                   <span className="home__details-subtitle">
                     
                   </span>
-                </div>
+                
                */}
               </div>
+                </div>
               <div className="home__data">
                 <h3 className="home__subtitle">#1 Top Scariest Ghost</h3>
                 <h1 className="home__title">
