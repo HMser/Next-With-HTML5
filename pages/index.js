@@ -20,7 +20,7 @@ export default function Home() {
         <div className="swiper-wapper">
         
           {/* HOME SLIDER 1 */}
-          <section className="swiper-slide">
+       /*   <section className="swiper-slide">
             <div className="home__content grid">
               <div className="home__group">
                 <Image
@@ -35,7 +35,7 @@ export default function Home() {
                     
                   </span>
                 </div>
-              </div>
+              </div> */
               <div className="home__data">
                 <h3 className="home__subtitle">#1 Top Scariest Ghost</h3>
                 <h1 className="home__title">
